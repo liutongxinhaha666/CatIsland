@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+build/
+build-*/
+local.properties
+*.apk
+*.jks
+*.keystore
+*.pem
+*.key
+.env
+*.env
+__pycache__/
+*.sqlite*
